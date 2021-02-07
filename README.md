@@ -1,6 +1,6 @@
 ![Logo](https://purwadhikax.com/static/media/purwadhika_logo_no_tagline.40622a0f.png)
 
-#### SEBELUM MEMULAI MENGERJAKAN, Bacalah soal baik-baik. Jika ada pertanyaan mengenai soal, silakan ditanyakan
+#### SEBELUM ANDA MULAI MENGERJAKAN, Bacalah soal baik-baik. Jika ada pertanyaan mengenai soal, silakan ditanyakan
 #### Ujian ini bersifat _open book_. Kalian boleh melihat catatan atau mencari materi di internet, tapi **mohon untuk tidak berdiskusi satu sama lain**
 #### Nyalakan kamera kalian pada zoom
 #### Jelaskan langkah-langkah yang kalian lakukan di kode kalian melalui komen (#).
