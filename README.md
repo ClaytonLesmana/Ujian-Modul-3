@@ -4,7 +4,7 @@
 #### Ujian ini bersifat _open book_. Kalian boleh melihat catatan atau mencari materi di internet, tapi **mohon untuk tidak berdiskusi satu sama lain**
 #### Nyalakan kamera kalian pada zoom
 #### Jelaskan langkah-langkah yang kalian lakukan di kode kalian melalui komen (#).
-#### Setelah kamu selesai, _commit_ file jawaban kamu ke _repository_ github, dengan Ujian Modul 2 sebagai nama repo. Kirimkan link github kalian ke brigita.gems@gmail.com dan cc ke operational@purwadhika.com.
+#### Setelah kamu selesai, _commit_ file jawaban kamu ke _repository_ github, dengan Ujian Modul 3 sebagai nama repo. Kirimkan link github kalian ke brigita.gems@gmail.com dan cc ke operational@purwadhika.com.
 #### Kamu punya waktu 5 jam untuk mengerjakan ujian ini.
 
 #
