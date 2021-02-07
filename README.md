@@ -21,7 +21,7 @@ Dataset ini berasal dari paper Jurnal Ilmiah berjudul "Hotel booking demand data
 
 Apabila Anda kesulitan download dataset pada repo ini atau ingin mengetahui keterangan di setiap kolom, Anda bisa akses ke: https://www.kaggle.com/jessemostipak/hotel-booking-demand/data. 
 
-![image](https://unsplash.com/photos/Koei_7yYtIo)  
+![image](https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80)  
 
 #
 
